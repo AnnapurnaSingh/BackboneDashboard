@@ -19,6 +19,27 @@ h1,h2,h3,h4,h5,h6 {
   position: relative;
 }
 
+#happy {
+  background-color: lightblue;
+}
+
+#sad {
+  background-color: red;
+}
+
+#who {
+  background-color: lightblue;
+}
+
+#where {
+  background-color: gray;
+}
+
+#why {
+  text-color: red;
+  background-color: gray;
+}
+
 .block-half {
   display: block;
   float: left;
